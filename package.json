@@ -1,0 +1,25 @@
+{
+  "name": "hashtag-journal-plugin",
+  "version": "1.0.114",
+  "description": "Obsidian plugin to process hashtags and links with a custom activation symbol in journal notes, organizing them into dedicated hashtag notes.",
+  "main": "main.js",
+  "scripts": {
+    "build": "node esbuild.config.mjs",
+    "dev": "node esbuild.config.mjs dev"
+  },
+  "keywords": [
+    "obsidian",
+    "plugin",
+    "journal",
+    "hashtag",
+    "link",
+    "organization"
+  ],
+  "author": "mobmankin",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "esbuild": "^0.21.4",
+    "obsidian": "^1.5.3"
+  }
+}

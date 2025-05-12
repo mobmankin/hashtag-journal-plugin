@@ -1,0 +1,9 @@
+{
+  "id": "hashtag-journal-plugin",
+  "name": "Hashtag Journal Plugin",
+  "version": "1.0.114",
+  "minAppVersion": "0.15.0",
+  "description": "Processes hashtags and links with a custom symbol in journal notes, organizing them into dedicated notes.",
+  "author": "mobmankin",
+  "isDesktopOnly": false
+}
