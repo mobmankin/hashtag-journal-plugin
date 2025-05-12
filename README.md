@@ -4,7 +4,7 @@ The **Hashtag Journal Plugin** enhances your journaling workflow in Obsidian by 
 
 ## Demo / Демонстрация
 
-![Demo](demo/12.05.2025%2020-32-32.gif)  
+![Demo](demo/demo.gif)
 *See the plugin in action with hashtag and link processing!*
 
 ---
